@@ -5,7 +5,7 @@ function Landing(){
         <div className="d-flex justify-content-center align-items-center vh-100 bg-dark text-white">
             <div>
             <h1 >Landing Page</h1>
-            <Link to='/products' ><button className='btn btn-info'>View Products</button></Link>
+            <Link to='/products' ><button className='btn btn-danger'>View Products</button></Link>
             </div>
         </div>
     )
